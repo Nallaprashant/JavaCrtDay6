@@ -11,8 +11,8 @@ public class SubStringDemo {
 		System.out.println("name2------"+name2);
 		
 		
-		name2 = name2+name1;// AjayRamu
-		name1 = name2.substring(0, name2.length()-name1.length());// Ajay
+		name2 = name2+name1;// ARamu
+		name1 = name2.substring(0, name2.length()-name1.length());// Abdul
 		name2 = name2.substring(name1.length());
 		
 		
